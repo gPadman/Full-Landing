@@ -26,6 +26,10 @@ h3 {
   padding-top: 500px;
 }
 
+.btn{
+   background-image: url('https://traversymedia.com/downloads/assets/beachshowcase.jpg')
+}
+
 .btn {
   margin: 20px;
   padding: 15px 20px;
